@@ -23,7 +23,7 @@ A sales analysis project designed to transform raw coffee shop data into actiona
 
 A Star Schema was modeled using Power Pivot with normalized tables to ensure optimal performance and accuracy.
 
-![Data Model](images/modeling.jpg)
+![Data Model](images/modeling.png)
 
 ---
 
